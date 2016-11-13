@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MainframeAutomation" GeneratedClassName="ApiSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SessionName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">A</Value>
+    </Setting>
+    <Setting Name="ExcelLocation" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:/Executables/MIDUpdate.xlsx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

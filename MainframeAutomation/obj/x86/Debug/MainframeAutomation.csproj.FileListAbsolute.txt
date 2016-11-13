@@ -1,0 +1,26 @@
+C:\Executables\Automation\MainframeAutomation\MainframeAutomation\bin\x86\Debug\MainframeAutomation.exe.config
+C:\Executables\Automation\MainframeAutomation\MainframeAutomation\bin\x86\Debug\MainframeAutomation.exe
+C:\Executables\Automation\MainframeAutomation\MainframeAutomation\bin\x86\Debug\MainframeAutomation.pdb
+C:\Executables\Automation\MainframeAutomation\MainframeAutomation\bin\x86\Debug\Microfocus.RDE.Framework.dll
+C:\Executables\Automation\MainframeAutomation\MainframeAutomation\bin\x86\Debug\RDEEHLLAPI.dll
+C:\Executables\Automation\MainframeAutomation\MainframeAutomation\bin\x86\Debug\RDEHLLAPI.dll
+C:\Executables\Automation\MainframeAutomation\MainframeAutomation\bin\x86\Debug\ObjectXHLLAPI.dll
+C:\Executables\Automation\MainframeAutomation\MainframeAutomation\bin\x86\Debug\Microfocus.RDE.Framework.xml
+C:\Executables\Automation\MainframeAutomation\MainframeAutomation\bin\x86\Debug\RDEEHLLAPI.xml
+C:\Executables\Automation\MainframeAutomation\MainframeAutomation\obj\x86\Debug\MainframeAutomation.exe
+C:\Executables\Automation\MainframeAutomation\MainframeAutomation\obj\x86\Debug\MainframeAutomation.pdb
+C:\Executable Folder\Automation\MainframeAutomation\MainframeAutomation\bin\x86\Debug\MainframeAutomation.exe.config
+C:\Executable Folder\Automation\MainframeAutomation\MainframeAutomation\bin\x86\Debug\MainframeAutomation.exe
+C:\Executable Folder\Automation\MainframeAutomation\MainframeAutomation\bin\x86\Debug\MainframeAutomation.pdb
+C:\Executable Folder\Automation\MainframeAutomation\MainframeAutomation\bin\x86\Debug\Microfocus.RDE.Framework.dll
+C:\Executable Folder\Automation\MainframeAutomation\MainframeAutomation\bin\x86\Debug\RDEEHLLAPI.dll
+C:\Executable Folder\Automation\MainframeAutomation\MainframeAutomation\bin\x86\Debug\RDEHLLAPI.dll
+C:\Executable Folder\Automation\MainframeAutomation\MainframeAutomation\bin\x86\Debug\ObjectXHLLAPI.dll
+C:\Executable Folder\Automation\MainframeAutomation\MainframeAutomation\bin\x86\Debug\Microfocus.RDE.Framework.xml
+C:\Executable Folder\Automation\MainframeAutomation\MainframeAutomation\bin\x86\Debug\RDEEHLLAPI.xml
+C:\Executable Folder\Automation\MainframeAutomation\MainframeAutomation\obj\x86\Debug\MainframeAutomation.exe
+C:\Executable Folder\Automation\MainframeAutomation\MainframeAutomation\obj\x86\Debug\MainframeAutomation.pdb
+C:\Executables\Automation\MainframeAutomation\MainframeAutomation\bin\x86\Debug\ClosedXML.dll
+C:\Executables\Automation\MainframeAutomation\MainframeAutomation\bin\x86\Debug\DocumentFormat.OpenXml.dll
+C:\Executables\Automation\MainframeAutomation\MainframeAutomation\bin\x86\Debug\ClosedXML.xml
+C:\Executables\Automation\MainframeAutomation\MainframeAutomation\obj\x86\Debug\MainframeAutomation.csprojResolveAssemblyReference.cache

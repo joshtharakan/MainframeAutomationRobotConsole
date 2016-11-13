@@ -1,0 +1,12 @@
+C:\Executables\Automation\MainframeAutomation\MainframeAutomation\bin\Debug\MainframeAutomation.exe.config
+C:\Executables\Automation\MainframeAutomation\MainframeAutomation\bin\Debug\MainframeAutomation.exe
+C:\Executables\Automation\MainframeAutomation\MainframeAutomation\bin\Debug\MainframeAutomation.pdb
+C:\Executables\Automation\MainframeAutomation\MainframeAutomation\bin\Debug\Microfocus.RDE.Framework.dll
+C:\Executables\Automation\MainframeAutomation\MainframeAutomation\bin\Debug\RDEEHLLAPI.dll
+C:\Executables\Automation\MainframeAutomation\MainframeAutomation\bin\Debug\RDEHLLAPI.dll
+C:\Executables\Automation\MainframeAutomation\MainframeAutomation\bin\Debug\ObjectXHLLAPI.dll
+C:\Executables\Automation\MainframeAutomation\MainframeAutomation\bin\Debug\Microfocus.RDE.Framework.xml
+C:\Executables\Automation\MainframeAutomation\MainframeAutomation\bin\Debug\RDEEHLLAPI.xml
+C:\Executables\Automation\MainframeAutomation\MainframeAutomation\obj\Debug\ResolveAssemblyReference.cache
+C:\Executables\Automation\MainframeAutomation\MainframeAutomation\obj\Debug\MainframeAutomation.exe
+C:\Executables\Automation\MainframeAutomation\MainframeAutomation\obj\Debug\MainframeAutomation.pdb

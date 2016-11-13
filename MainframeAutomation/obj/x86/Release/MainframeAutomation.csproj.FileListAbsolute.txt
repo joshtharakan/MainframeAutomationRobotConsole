@@ -1,0 +1,21 @@
+C:\Executables\Automation\MainframeAutomation\MainframeAutomation\bin\x86\Release\MainframeAutomation.exe.config
+C:\Executables\Automation\MainframeAutomation\MainframeAutomation\bin\x86\Release\MainframeAutomation.exe
+C:\Executables\Automation\MainframeAutomation\MainframeAutomation\bin\x86\Release\Microfocus.RDE.Framework.dll
+C:\Executables\Automation\MainframeAutomation\MainframeAutomation\bin\x86\Release\RDEEHLLAPI.dll
+C:\Executables\Automation\MainframeAutomation\MainframeAutomation\bin\x86\Release\RDEHLLAPI.dll
+C:\Executables\Automation\MainframeAutomation\MainframeAutomation\bin\x86\Release\ObjectXHLLAPI.dll
+C:\Executables\Automation\MainframeAutomation\MainframeAutomation\bin\x86\Release\Microfocus.RDE.Framework.xml
+C:\Executables\Automation\MainframeAutomation\MainframeAutomation\bin\x86\Release\RDEEHLLAPI.xml
+C:\Executables\Automation\MainframeAutomation\MainframeAutomation\obj\x86\Release\MainframeAutomation.exe
+C:\Executable Folder\Automation\MainframeAutomation\MainframeAutomation\bin\x86\Release\MainframeAutomation.exe.config
+C:\Executable Folder\Automation\MainframeAutomation\MainframeAutomation\obj\x86\Release\MainframeAutomation.exe
+C:\Executable Folder\Automation\MainframeAutomation\MainframeAutomation\bin\x86\Release\MainframeAutomation.exe
+C:\Executable Folder\Automation\MainframeAutomation\MainframeAutomation\bin\x86\Release\ObjectXHLLAPI.dll
+C:\Executable Folder\Automation\MainframeAutomation\MainframeAutomation\bin\x86\Release\Microfocus.RDE.Framework.xml
+C:\Executable Folder\Automation\MainframeAutomation\MainframeAutomation\bin\x86\Release\RDEEHLLAPI.xml
+C:\Executable Folder\Automation\MainframeAutomation\MainframeAutomation\bin\x86\Release\Microfocus.RDE.Framework.dll
+C:\Executable Folder\Automation\MainframeAutomation\MainframeAutomation\bin\x86\Release\RDEEHLLAPI.dll
+C:\Executable Folder\Automation\MainframeAutomation\MainframeAutomation\bin\x86\Release\RDEHLLAPI.dll
+C:\Executables\Automation\MainframeAutomation\MainframeAutomation\bin\x86\Release\ClosedXML.dll
+C:\Executables\Automation\MainframeAutomation\MainframeAutomation\bin\x86\Release\DocumentFormat.OpenXml.dll
+C:\Executables\Automation\MainframeAutomation\MainframeAutomation\bin\x86\Release\ClosedXML.xml

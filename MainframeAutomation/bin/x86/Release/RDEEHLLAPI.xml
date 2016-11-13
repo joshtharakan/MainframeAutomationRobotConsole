@@ -1,0 +1,474 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RDEEHLLAPI</name>
+    </assembly>
+    <members>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.APIGetNextAvailableShortName">
+            <summary>
+            APIGetNextAvailableShortName
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_ChangeWindowName(System.IntPtr,System.String,System.Byte,System.String)">
+            <summary>
+            WD_ChangeWindowName
+            </summary>
+            <param name="hWnd"></param>
+            <param name="shortName"></param>
+            <param name="byRequest"></param>
+            <param name="name"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_ConnectPS(System.IntPtr,System.String)">
+            <summary>
+            WD_ConnectPS
+            </summary>
+            <param name="hWnd"></param>
+            <param name="shortName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_ConnectWindowServices(System.IntPtr,System.String)">
+            <summary>
+            WD_ConnectWindowServices
+            </summary>
+            <param name="hWnd"></param>
+            <param name="shortName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_Convert(System.IntPtr,System.Int16,System.Drawing.Point@,System.String)">
+            <summary>
+            WD_Convert
+            </summary>
+            <param name="hWnd"></param>
+            <param name="type"></param>
+            <param name="point"></param>
+            <param name="data"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_CopyFieldToString(System.IntPtr,System.Int16,System.Text.StringBuilder,System.Int16)">
+            <summary>
+            WD_CopyFieldToString
+            </summary>
+            <param name="hWnd"></param>
+            <param name="position"></param>
+            <param name="data"></param>
+            <param name="length"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_CopyOIA(System.IntPtr,System.Text.StringBuilder,System.Int16)">
+            <summary>
+            WD_CopyOIA
+            </summary>
+            <param name="param0"></param>
+            <param name="data"></param>
+            <param name="length"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_CopyPS(System.IntPtr,System.Text.StringBuilder,System.Int16)">
+            <summary>
+            WD_CopyPS
+            </summary>
+            <param name="hWnd"></param>
+            <param name="data"></param>
+            <param name="length"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_CopyPSToString(System.IntPtr,System.Int16,System.Text.StringBuilder,System.Int16)">
+            <summary>
+            WD_CopyPSToString
+            </summary>
+            <param name="hWnd"></param>
+            <param name="position"></param>
+            <param name="data"></param>
+            <param name="length"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_CopyStringToField(System.IntPtr,System.Int16,System.String)">
+            <summary>
+            WD_CopyStringToField
+            </summary>
+            <param name="hWnd"></param>
+            <param name="postion"></param>
+            <param name="data"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_CopyStringToPS(System.IntPtr,System.Int16,System.String,System.Int16)">
+            <summary>
+            WD_CopyStringToPS
+            </summary>
+            <param name="hWnd"></param>
+            <param name="position"></param>
+            <param name="data"></param>
+            <param name="length"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_DeletePS(System.IntPtr,System.String)">
+            <summary>
+            WD_DeletePS
+            </summary>
+            <param name="hWnd"></param>
+            <param name="data"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_DisconnectPS(System.IntPtr)">
+            <summary>
+            WD_DisconnectPS
+            </summary>
+            <param name="hWnd"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_DisconnectWindowServices(System.IntPtr,System.String)">
+            <summary>
+            WD_DisconnectWindowServices
+            </summary>
+            <param name="hWnd"></param>
+            <param name="shortName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_DisplayCursor(System.IntPtr,System.Int16,System.String)">
+            <summary>
+            WD_DisplayCursor
+            </summary>
+            <param name="hWnd"></param>
+            <param name="position"></param>
+            <param name="data"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_DisplayPS(System.IntPtr,System.String)">
+            <summary>
+            WD_DisplayPS
+            </summary>
+            <param name="param0"></param>
+            <param name="data"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_FindFieldLength(System.IntPtr,System.Int16@,System.Int16,System.String)">
+            <summary>
+            WD_FindFieldLength
+            </summary>
+            <param name="hWnd"></param>
+            <param name="location"></param>
+            <param name="position"></param>
+            <param name="data"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_FindFieldPosition(System.IntPtr,System.Int16@,System.Int16,System.String)">
+            <summary>
+            WD_FindFieldPosition
+            </summary>
+            <param name="param0"></param>
+            <param name="location"></param>
+            <param name="position"></param>
+            <param name="data"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_GetKey(System.IntPtr,System.Text.StringBuilder)">
+            <summary>
+            WD_GetKey
+            </summary>
+            <param name="hWnd"></param>
+            <param name="data"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_GetSessionHWND(System.IntPtr)">
+            <summary>
+            WD_GetSessionHWND
+            </summary>
+            <param name="hWnd"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_Pause(System.IntPtr,System.Int16)">
+            <summary>
+            WD_Pause
+            </summary>
+            <param name="hWnd"></param>
+            <param name="length"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_PostInterceptStatus(System.IntPtr,System.String)">
+            <summary>
+            WD_PostInterceptStatus
+            </summary>
+            <param name="hWnd"></param>
+            <param name="data"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_QueryCloseIntercept(System.IntPtr,System.String)">
+            <summary>
+            WD_QueryCloseIntercept
+            </summary>
+            <param name="hWnd"></param>
+            <param name="data"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_QueryCursorLocation(System.IntPtr,System.Int16@)">
+            <summary>
+            WD_QueryCursorLocation
+            </summary>
+            <param name="hWnd"></param>
+            <param name="location"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_QueryFieldAttribute(System.IntPtr,System.Int16@,System.Int16)">
+            <summary>
+            WD_QueryFieldAttribute
+            </summary>
+            <param name="hWnd"></param>
+            <param name="location"></param>
+            <param name="position"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_QueryHostUpdate(System.IntPtr,System.Text.StringBuilder)">
+            <summary>
+            WD_QueryHostUpdate
+            </summary>
+            <param name="hWnd"></param>
+            <param name="data"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_QuerySessions(System.IntPtr,System.Int16@,MicroFocus.RDE.Framework.EHLLAPI.QuerySession@)">
+            <summary>
+            WD_QuerySessions
+            </summary>
+            <param name="hWnd"></param>
+            <param name="numSessions"></param>
+            <param name="querySession"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_QuerySessionStatus(System.IntPtr,System.Text.StringBuilder)">
+            <summary>
+            WD_QuerySessionStatus
+            </summary>
+            <param name="param0"></param>
+            <param name="data"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_QuerySystem(System.IntPtr,System.Text.StringBuilder)">
+            <summary>
+            WD_QuerySystem
+            </summary>
+            <param name="param0"></param>
+            <param name="data"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_QueryWindowCoordinates(System.IntPtr,MicroFocus.RDE.Framework.EHLLAPI.QWCSTRUCT@)">
+            <summary>
+            WD_QueryWindowCoordinates
+            </summary>
+            <param name="hWnd"></param>
+            <param name="qwc"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_ReceiveFile(System.IntPtr,System.String)">
+            <summary>
+            WD_ReceiveFile
+            </summary>
+            <param name="hWnd"></param>
+            <param name="data"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_Release(System.IntPtr)">
+            <summary>
+            WD_Release
+            </summary>
+            <param name="hWnd"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_Reserve(System.IntPtr)">
+            <summary>
+            WD_Reserve
+            </summary>
+            <param name="hWnd"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_ResetSystem(System.IntPtr)">
+            <summary>
+            WD_ResetSystem
+            </summary>
+            <param name="hWnd"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_RunMacro(System.IntPtr,System.String)">
+            <summary>
+            WD_RunMacro
+            </summary>
+            <param name="hWnd"></param>
+            <param name="macro"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_SearchField(System.IntPtr,System.Int16@,System.Int16,System.String)">
+            <summary>
+            WD_SearchField
+            </summary>
+            <param name="hWnd"></param>
+            <param name="location"></param>
+            <param name="position"></param>
+            <param name="data"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_SearchPS(System.IntPtr,System.Int16@,System.Int16,System.String)">
+            <summary>
+            WD_SearchPS
+            </summary>
+            <param name="hWnd"></param>
+            <param name="location"></param>
+            <param name="position"></param>
+            <param name="text"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_SendFile(System.IntPtr,System.String)">
+            <summary>
+            WD_SendFile
+            </summary>
+            <param name="hWnd"></param>
+            <param name="data"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_SendKey(System.IntPtr,System.String)">
+            <summary>
+            WD_SendKey
+            </summary>
+            <param name="hWnd"></param>
+            <param name="keys"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_SetCursor(System.IntPtr,System.Int16)">
+            <summary>
+            WD_SetCursor
+            </summary>
+            <param name="hWnd"></param>
+            <param name="position"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_SetSessionParameters(System.IntPtr,System.Int32)">
+            <summary>
+            WD_SetSessionParameters
+            </summary>
+            <param name="hWnd"></param>
+            <param name="parameters"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_SetSessionParamEx(System.IntPtr,System.String)">
+            <summary>
+            WD_SetSessionParamEx
+            </summary>
+            <param name="hWnd"></param>
+            <param name="parameters"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_StartCloseIntercept(System.IntPtr,System.String)">
+            <summary>
+            WD_StartCloseIntercept
+            </summary>
+            <param name="hWnd"></param>
+            <param name="data"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_StartHostNotification(System.IntPtr,System.Text.StringBuilder)">
+            <summary>
+            WD_StartHostNotification
+            </summary>
+            <param name="param0"></param>
+            <param name="data"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_StartKSIntercept(System.IntPtr,System.String)">
+            <summary>
+            WD_StartKSIntercept
+            </summary>
+            <param name="hWnd"></param>
+            <param name="data"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_StopCloseIntercept(System.IntPtr,System.String)">
+            <summary>
+            WD_StopCloseIntercept
+            </summary>
+            <param name="hWnd"></param>
+            <param name="data"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_StopHostNotification(System.IntPtr,System.Text.StringBuilder)">
+            <summary>
+            WD_StopHostNotification
+            </summary>
+            <param name="param0"></param>
+            <param name="data"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_StopKSIntercept(System.IntPtr,System.String)">
+            <summary>
+            WD_StopKSIntercept
+            </summary>
+            <param name="hWnd"></param>
+            <param name="data"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_UnhookBlockingHook(System.IntPtr)">
+            <summary>
+            WD_UnhookBlockingHook
+            </summary>
+            <param name="hWnd"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_Wait(System.IntPtr)">
+            <summary>
+            WD_Wait
+            </summary>
+            <param name="hWnd"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_WindowStatus(System.IntPtr,MicroFocus.RDE.Framework.EHLLAPI.WSSTRUCT@)">
+            <summary>
+            WD_WindowStatus
+            </summary>
+            <param name="hWnd"></param>
+            <param name="ws"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_RunProfile(System.String,System.Int32)">
+            <summary>
+            WD_RunProfile
+            </summary>
+            <param name="profile"></param>
+            <param name="showWindow"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_ShowSession(System.IntPtr,System.Int32)">
+            <summary>
+            WD_ShowSession
+            </summary>
+            <param name="hWnd"></param>
+            <param name="showWindow"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_AdviseHostUpdate(System.IntPtr,System.IntPtr,System.Int32)">
+            <summary>
+            WD_AdviseHostUpdate
+            </summary>
+            <param name="hWnd"></param>
+            <param name="windowHandle"></param>
+            <param name="message"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_QueryBlockLocation(System.IntPtr,System.Drawing.Point@)">
+            <summary>
+            WD_QueryBlockLocation
+            </summary>
+            <param name="hWnd"></param>
+            <param name="point"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MicroFocus.RDE.Framework.EHLLAPI.WD_CopyBlockToString(System.IntPtr,System.Int16,System.Int16,System.Text.StringBuilder)">
+            <summary>
+            WD_CopyBlockToString
+            </summary>
+            <param name="hWnd"></param>
+            <param name="position1"></param>
+            <param name="position2"></param>
+            <param name="data"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
